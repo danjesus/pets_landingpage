@@ -1,2 +1,2 @@
-# pets_landingpage
-Repositório da landing page do projeto pets
+# PETS - Landing Page
+Repositório da landing page temporária do projeto pets
